@@ -1,0 +1,7 @@
+	juce : 10 : 37
+	water : 0.9 : 23
+	2 : 1 : 1
+	applejuice : 0.7 : 43
+	fruitjuice : 0.8 : 34
+	egg : 3 : 94
+	juice : 5 : 100
